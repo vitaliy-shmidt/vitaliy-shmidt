@@ -82,16 +82,7 @@ Private software product currently under development.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### Startup 2026 · In development
-
-Venture-building and product strategy project.
-
-`Strategy` `Architecture` `Execution`
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### Public case studies
 
