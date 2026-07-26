@@ -2,10 +2,13 @@
 
 # Vitaliy Shmidt
 
-### Software Architect · Product Builder · Full-Stack Developer
+### Software Architect · SaaS Founder · Full-Stack Engineer
 
-I design and build scalable SaaS products, automation systems and AI-enabled business solutions — from initial concept to production.
+I build software products that simplify complex business operations.
 
+For more than 20 years, I have designed and developed enterprise software, SaaS platforms and business intelligence solutions — from architecture and database design to APIs, deployment, operations and product strategy.
+
+[![Website](https://img.shields.io/badge/Website-webmaster--vitaliy.de-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://webmaster-vitaliy.de)
 [![Email](https://img.shields.io/badge/Email-info%40webmaster--vitaliy.de-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:info@webmaster-vitaliy.de)
 [![GitHub](https://img.shields.io/badge/GitHub-vitaliy--shmidt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vitaliy-shmidt)
 
@@ -13,22 +16,24 @@ I design and build scalable SaaS products, automation systems and AI-enabled bus
 
 ---
 
-## Profile
+<div align="center">
 
-I combine **software architecture, full-stack engineering and product thinking** to turn business requirements into maintainable digital systems.
+| 20+ Years | 10+ Years | 260+ Hotels | 500+ Users | 10+ Countries | 3 Live Products |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Experience | Product Ownership | Enterprise Reach | Active Users | International Use | SaaS Portfolio |
 
-My work is focused on creating software that is technically sound, operationally useful and designed for long-term growth. I approach development from the perspective of both an engineer and a product owner: clarify the problem, define the architecture, build the system and improve it through real use.
+</div>
 
-## What I build
+## What I do
 
-- SaaS platforms and business applications
-- Automation and AI-assisted workflows
-- APIs, integrations and connected services
-- Internal tools and operational systems
-- Maintainable full-stack product architectures
-- Technical foundations for new digital ventures
+- Design scalable SaaS and enterprise platforms
+- Build multi-tenant business applications
+- Architect databases, APIs and integrations
+- Translate complex business processes into maintainable software
+- Automate workflows with n8n and AI integrations
+- Own products from concept and UX to deployment and long-term operation
 
-## Selected products
+## Live products
 
 <table>
 <tr>
@@ -42,22 +47,18 @@ My work is focused on creating software that is technically sound, operationally
 
 ### [RntLink](https://rntlink.com/) · Live
 
-Operations platform for holiday apartments, aparthotels and small hotels. RntLink brings calendars, housekeeping, maintenance, front-desk workflows and daily operations together in one focused system.
+Hospitality SaaS for hotels and holiday apartments. The platform combines calendar synchronization, housekeeping, maintenance, revenue workflows, owner reporting and operational coordination.
 
-It helps operators coordinate multiple properties, synchronize iCal availability, identify booking conflicts, organize cleaning and maintenance tasks, and keep operational work visible without the complexity of an oversized PMS or channel manager.
-
-`Hospitality SaaS` `iCal Sync` `Housekeeping` `Operations`
+`Hospitality SaaS` `PHP` `Vue.js` `MySQL` `iCal` `REST API`
 
 </td>
 <td width="50%" valign="top">
 
 ### [HubDix](https://hubdix.com/) · Live
 
-Flexible operations platform that connects facilities, rooms, tenants, tasks, inventory, inspections, maintenance, repairs and contracts in one shared operational hub.
+Operations, hosting and automation platform for managing services, infrastructure and shared workflows across multiple digital products.
 
-Designed for hotels, residential buildings, schools, offices and multi-site organizations, with configurable roles, audit trails, multilingual workflows and a browser-based 3D City Cockpit for operational visibility.
-
-`Operations Platform` `Facilities` `Maintenance` `Inspections`
+`Operations` `Automation` `Laravel` `Docker` `Linux` `API`
 
 </td>
 </tr>
@@ -66,84 +67,71 @@ Designed for hotels, residential buildings, schools, offices and multi-site orga
 
 ### [JumpQR](https://jumpqr.com/) · Live
 
-Live QR-based digital product focused on fast access, flexible routing and practical user journeys.
+Multi-tenant QR SaaS for creating, managing and analyzing QR codes, including click statistics, asset management and REST API access.
 
-`QR Platform` `Web Product` `Routing` `User Experience`
+`QR SaaS` `Laravel` `Vue.js` `Analytics` `REST API`
 
 </td>
 <td width="50%" valign="top">
 
 ### ChronoDix · In development
 
-Private software product currently under development.
+Next-generation BI platform and technical successor to CHRONOS. Built as a multi-tenant system with snapshot-based planning, import workflows, forecasting, budgeting and an open API layer.
 
-`Scheduling` `Processes` `Automation`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Public case studies
-
-Selected architecture notes, product insights and reusable components will be published progressively.
-
-`Documentation` `Case Studies` `Open Knowledge`
+`BI Platform` `Laravel` `Vue.js` `PostgreSQL` `Docker` `REST API`
 
 </td>
 </tr>
 </table>
 
-> Most product repositories are private. This profile presents selected capabilities and project context without exposing confidential source code or business information.
+> Most product repositories are private. This profile presents selected capabilities and product context without exposing confidential source code or business information.
 
-## Technology
+## Enterprise experience
 
-### Backend and data
+### CHRONOS — Enterprise BI & Performance Management
+
+Architect and product owner of a multilingual enterprise platform for budgeting, forecasting, financial planning, KPI reporting, management reporting and operational performance management in the hospitality industry.
+
+The system has been operated in production for more than ten years and supported:
+
+- **260+ hotels**
+- **500+ users**
+- **10+ countries**
+- multi-tenant financial data across multiple years and planning versions
+- automated integrations with hotel, finance, accounting and third-party systems
+
+My responsibility covered the complete product lifecycle: product concept, software architecture, UX, database architecture, backend, frontend, business logic, reporting engine, REST APIs, integrations, deployment, infrastructure, security, performance optimization and continuous development.
+
+## Areas of expertise
+
+`Software Architecture` `SaaS Platforms` `Enterprise Applications` `Multi-Tenant Systems`
+
+`Hospitality Technology` `Business Intelligence` `FP&A` `Financial Reporting`
+
+`Database Architecture` `API Design` `Workflow Automation` `AI Integration`
+
+`Product Strategy` `Deployment & Operations` `Process Digitalization`
+
+## Core technology
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-
-### Infrastructure and delivery
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-005571?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-## Engineering principles
+## Current focus
 
-- Start with the business problem, not the framework.
-- Prefer clear architecture over unnecessary complexity.
-- Build systems that can be maintained by more than one person.
-- Treat security, reliability and usability as architectural concerns.
-- Document decisions, assumptions and operational knowledge.
-- Measure software by the value it creates in real workflows.
-
-## Current direction
-
-I am currently operating and developing several software products while building a public portfolio of selected case studies, architecture patterns and practical engineering insights.
-
-Areas of particular interest:
-
-- AI-supported business operations
-- SaaS and platform architecture
-- Workflow and process automation
-- Product engineering for new ventures
-- Reliable integrations between business systems
+I am currently building and operating software products for hospitality, digital operations and business intelligence. My work combines software architecture, product thinking and automation to create systems that remain useful, maintainable and reliable in real business environments.
 
 ## Contact
 
-For professional collaboration, software architecture, product development or technical partnerships:
+For software architecture, SaaS product development, technical partnerships or selected freelance projects:
 
 **[info@webmaster-vitaliy.de](mailto:info@webmaster-vitaliy.de)**
 
