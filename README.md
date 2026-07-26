@@ -36,7 +36,7 @@ My work is focused on creating software that is technically sound, operationally
 
 <div align="center">
 <a href="https://rntlink.com/">
-<img src="./assets/RntLink-Logo-Transparent.png" alt="RntLink" width="180">
+<img src="./RntLink-Logo-Transparent.png" alt="RntLink" width="180">
 </a>
 </div>
 
