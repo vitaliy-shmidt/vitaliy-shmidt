@@ -36,7 +36,7 @@ My work is focused on creating software that is technically sound, operationally
 
 <div align="center">
 <a href="https://rntlink.com/">
-<img src="https://private-user-images.githubusercontent.com/280923121/590747671-4fe4f246-343a-4c78-b13b-0547ebb06049.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODUxMDc1ODQsIm5iZiI6MTc4NTEwNzI4NCwicGF0aCI6Ii8yODA5MjMxMjEvNTkwNzQ3NjcxLTRmZTRmMjQ2LTM0M2EtNGM3OC1iMTNiLTA1NDdlYmIwNjA0OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcyNlQyMzA4MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjgwOTMzZmNkMTI2ZDcyZmY3ZDZiNjYzYzc1NmE4NGFhZDkzZDcxMTdlY2QwZmY2NDk0MGIyOWVhN2MzODNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.uVt990gt7KSyagh0G5OAHJYtfNBQXLb-rpKt8N-NdTk" alt="RntLink" width="180">
+<img src="./assets/RntLink-Logo-Transparent.png" alt="RntLink" width="180">
 </a>
 </div>
 
