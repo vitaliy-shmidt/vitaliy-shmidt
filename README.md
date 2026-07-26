@@ -40,7 +40,7 @@ My work is focused on creating software that is technically sound, operationally
 </a>
 </div>
 
-### [RntLink](https://rntlink.com/)
+### [RntLink](https://rntlink.com/) · Live
 
 Operations platform for holiday apartments, aparthotels and small hotels. RntLink brings calendars, housekeeping, maintenance, front-desk workflows and daily operations together in one focused system.
 
@@ -51,25 +51,30 @@ It helps operators coordinate multiple properties, synchronize iCal availability
 </td>
 <td width="50%" valign="top">
 
-### HubDix
-Private platform project currently under development.
+### [HubDix](https://hubdix.com/) · Live
 
-`Platform` `Integrations` `System Design`
+Flexible operations platform that connects facilities, rooms, tenants, tasks, inventory, inspections, maintenance, repairs and contracts in one shared operational hub.
+
+Designed for hotels, residential buildings, schools, offices and multi-site organizations, with configurable roles, audit trails, multilingual workflows and a browser-based 3D City Cockpit for operational visibility.
+
+`Operations Platform` `Facilities` `Maintenance` `Inspections`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### JumpQR
-Private digital product currently under development.
+### [JumpQR](https://jumpqr.com/) · Live
 
-`Web Product` `QR Workflows` `User Experience`
+Live QR-based digital product focused on fast access, flexible routing and practical user journeys.
+
+`QR Platform` `Web Product` `Routing` `User Experience`
 
 </td>
 <td width="50%" valign="top">
 
-### ChronoDix
+### ChronoDix · In development
+
 Private software product currently under development.
 
 `Scheduling` `Processes` `Automation`
@@ -79,7 +84,8 @@ Private software product currently under development.
 <tr>
 <td width="50%" valign="top">
 
-### Startup 2026
+### Startup 2026 · In development
+
 Venture-building and product strategy project.
 
 `Strategy` `Architecture` `Execution`
@@ -88,6 +94,7 @@ Venture-building and product strategy project.
 <td width="50%" valign="top">
 
 ### Public case studies
+
 Selected architecture notes, product insights and reusable components will be published progressively.
 
 `Documentation` `Case Studies` `Open Knowledge`
@@ -133,7 +140,7 @@ Selected architecture notes, product insights and reusable components will be pu
 
 ## Current direction
 
-I am currently developing several private software products while building a public portfolio of selected case studies, architecture patterns and practical engineering insights.
+I am currently operating and developing several software products while building a public portfolio of selected case studies, architecture patterns and practical engineering insights.
 
 Areas of particular interest:
 
