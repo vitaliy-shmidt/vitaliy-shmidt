@@ -2,7 +2,7 @@
 <a href="https://www.webmaster-vitaliy.de/">
 <img src="./Vitaliy-Webmaster-Banner.png" alt="Webmaster Vitaliy Shmidt" width="100%">
 </a>
-  
+
 # Vitaliy Shmidt
 
 ### Software Architect · SaaS Founder · Full-Stack Engineer
@@ -19,13 +19,14 @@ For more than 20 years, I have designed and developed enterprise software, SaaS 
 
 ---
 
-<div align="center">
+## At a glance
 
-| 20+ Years | 10+ Years | 260+ Hotels | 500+ Users | 10+ Countries | 3 Live Products |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Experience | Technical Product Leadership | Enterprise Reach | Active Users | International Use | SaaS Portfolio |
-
-</div>
+- **20+ years** of software engineering experience
+- **10+ years** of technical product leadership
+- **260+ hotels** supported by enterprise software
+- **500+ users** across operational environments
+- **10+ countries** in productive use
+- **4 live products** in my current SaaS portfolio
 
 ## What I do
 
@@ -34,13 +35,9 @@ For more than 20 years, I have designed and developed enterprise software, SaaS 
 - Architect databases, APIs and integrations
 - Translate complex business processes into maintainable software
 - Automate workflows with n8n and AI integrations
-- Own products from concept and UX to deployment and long-term operation
+- Lead products from concept and UX to deployment and long-term operation
 
 ## Live products
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 <div align="center">
 <a href="https://rntlink.com/">
@@ -54,8 +51,8 @@ Hospitality SaaS for hotels and holiday apartments. The platform combines calend
 
 `Hospitality SaaS` `PHP` `Vue.js` `MySQL` `iCal` `REST API`
 
-</td>
-<td width="50%" valign="top">
+---
+
 <div align="center">
 <a href="https://hubdix.com/">
 <img src="./hubdix-weiss.jpg" alt="HubDix" height="50">
@@ -68,34 +65,43 @@ Operations, hosting and automation platform for managing services, infrastructur
 
 `Operations` `Automation` `Laravel` `Docker` `Linux` `API`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
+
 <div align="center">
 <a href="https://jumpqr.com/">
 <img src="./JumpQR-Logo.jpg" alt="JumpQR" height="50">
 </a>
 </div>
-  
+
 ### [JumpQR](https://jumpqr.com/) · Live
 
 Multi-tenant QR SaaS for creating, managing and analyzing QR codes, including click statistics, asset management and REST API access.
 
 `QR SaaS` `Laravel` `Vue.js` `Analytics` `REST API`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ChronoDix · In development
+<div align="center">
+<a href="https://www.adresser.de/">
+<img src="./adresser-Logo.jpg" alt="Adresser" height="60">
+</a>
+</div>
+
+### [Adresser](https://www.adresser.de/) · Live
+
+Web application for creating, organizing and managing address-related data and location-based records.
+
+[View repository](https://github.com/vitaliy-shmidt/adresser)
+
+`Web Application` `Data Management` `Addresses` `Open Repository`
+
+## In development
+
+### ChronoDix
 
 Next-generation BI platform and technical successor to CHRONOS. Built as a multi-tenant system with snapshot-based planning, import workflows, forecasting, budgeting and an open API layer.
 
 `BI Platform` `Laravel` `Vue.js` `PostgreSQL` `Docker` `REST API`
-
-</td>
-</tr>
-</table>
 
 > Most product repositories are private. This profile presents selected capabilities and product context without exposing confidential source code or business information.
 
@@ -110,20 +116,25 @@ The system has been operated in production for more than ten years and supported
 - **260+ hotels**
 - **500+ users**
 - **10+ countries**
-- multi-tenant financial data across multiple years and planning versions
-- automated integrations with hotel, finance, accounting and third-party systems
+- Multi-tenant financial data across multiple years and planning versions
+- Automated integrations with hotel, finance, accounting and third-party systems
 
 I was responsible for the complete technical lifecycle of the platform: product concept, software architecture, UX, database architecture, backend, frontend, business logic, reporting engine, REST APIs, integrations, deployment, infrastructure, security, performance optimization and continuous development.
 
 ## Areas of expertise
 
-`Software Architecture` `SaaS Platforms` `Enterprise Applications` `Multi-Tenant Systems`
-
-`Hospitality Technology` `Business Intelligence` `FP&A` `Financial Reporting`
-
-`Database Architecture` `API Design` `Workflow Automation` `AI Integration`
-
-`Product Strategy` `Deployment & Operations` `Process Digitalization`
+- Software Architecture
+- SaaS Platforms
+- Enterprise Applications
+- Multi-Tenant Systems
+- Hospitality Technology
+- Business Intelligence and FP&A
+- Database Architecture
+- API Design
+- Workflow Automation
+- AI Integration
+- Product Strategy
+- Deployment and Operations
 
 ## Core technology
 
