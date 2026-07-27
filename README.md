@@ -20,7 +20,7 @@ For more than 20 years, I have designed and developed enterprise software, SaaS 
 
 | 20+ Years | 10+ Years | 260+ Hotels | 500+ Users | 10+ Countries | 3 Live Products |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Experience | Product Ownership | Enterprise Reach | Active Users | International Use | SaaS Portfolio |
+| Experience | Technical Product Leadership | Enterprise Reach | Active Users | International Use | SaaS Portfolio |
 
 </div>
 
@@ -90,7 +90,7 @@ Next-generation BI platform and technical successor to CHRONOS. Built as a multi
 
 ### CHRONOS — Enterprise BI & Performance Management
 
-Architect and product owner of a multilingual enterprise platform for budgeting, forecasting, financial planning, KPI reporting, management reporting and operational performance management in the hospitality industry.
+Original software architect and technical product lead of a multilingual enterprise platform for budgeting, forecasting, financial planning, KPI reporting, management reporting and operational performance management in the hospitality industry.
 
 The system has been operated in production for more than ten years and supported:
 
@@ -100,7 +100,7 @@ The system has been operated in production for more than ten years and supported
 - multi-tenant financial data across multiple years and planning versions
 - automated integrations with hotel, finance, accounting and third-party systems
 
-My responsibility covered the complete product lifecycle: product concept, software architecture, UX, database architecture, backend, frontend, business logic, reporting engine, REST APIs, integrations, deployment, infrastructure, security, performance optimization and continuous development.
+I was responsible for the complete technical lifecycle of the platform: product concept, software architecture, UX, database architecture, backend, frontend, business logic, reporting engine, REST APIs, integrations, deployment, infrastructure, security, performance optimization and continuous development.
 
 ## Areas of expertise
 
