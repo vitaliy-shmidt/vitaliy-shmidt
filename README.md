@@ -91,8 +91,6 @@ Multi-tenant QR SaaS for creating, managing and analyzing QR codes, including cl
 
 Web application for creating, organizing and managing address-related data and location-based records.
 
-[View repository](https://github.com/vitaliy-shmidt/adresser)
-
 `Web Application` `Data Management` `Addresses` `Open Repository`
 
 ## In development
