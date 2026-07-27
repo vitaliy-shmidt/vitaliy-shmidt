@@ -1,115 +1,145 @@
 <div align="center">
-<a href="https://www.webmaster-vitaliy.de/">
-<img src="./Vitaliy-Webmaster-Banner.png" alt="Webmaster Vitaliy Shmidt" width="100%">
-</a>
+  <a href="https://www.webmaster-vitaliy.de/">
+    <img src="./Vitaliy-Webmaster-Banner.png" alt="Webmaster Vitaliy Shmidt" width="100%">
+  </a>
 
-# Vitaliy Shmidt
+  # Vitaliy Shmidt
 
-### Software Architect · SaaS Founder · Full-Stack Engineer
+  ### Software Architect · SaaS Founder · Full-Stack Engineer
 
-I build software products that simplify complex business operations.
+  I design and build reliable software products for complex business environments.
 
-For more than 20 years, I have designed and developed enterprise software, SaaS platforms and business intelligence solutions — from architecture and database design to APIs, deployment, operations and product strategy.
-
-[![Website](https://img.shields.io/badge/Website-webmaster--vitaliy.de-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://webmaster-vitaliy.de)
-[![Email](https://img.shields.io/badge/Email-info%40webmaster--vitaliy.de-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:info@webmaster-vitaliy.de)
-[![GitHub](https://img.shields.io/badge/GitHub-vitaliy--shmidt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vitaliy-shmidt)
-
+  [![Website](https://img.shields.io/badge/Website-webmaster--vitaliy.de-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://webmaster-vitaliy.de)
+  [![Email](https://img.shields.io/badge/Email-info%40webmaster--vitaliy.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@webmaster-vitaliy.de)
+  [![GitHub](https://img.shields.io/badge/GitHub-vitaliy--shmidt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitaliy-shmidt)
 </div>
 
 ---
 
-## At a glance
+## Profile
 
-- **20+ years** of software engineering experience
-- **10+ years** of technical product leadership
-- **260+ hotels** supported by enterprise software
-- **500+ users** across operational environments
-- **10+ countries** in productive use
-- **4 live products** in my current SaaS portfolio
+For more than **20 years**, I have designed and developed enterprise software, SaaS platforms and business intelligence solutions.
+
+My work covers the full technical lifecycle: product concept, software architecture, database design, backend, frontend, APIs, integrations, deployment, operations and long-term product evolution.
+
+<div align="center">
+
+![20+ Years](https://img.shields.io/badge/20%2B_Years-Experience-0A66C2?style=flat-square)
+![10+ Years](https://img.shields.io/badge/10%2B_Years-Product_Leadership-0A66C2?style=flat-square)
+![260+ Hotels](https://img.shields.io/badge/260%2B-Hotels-0A66C2?style=flat-square)
+![500+ Users](https://img.shields.io/badge/500%2B-Users-0A66C2?style=flat-square)
+![10+ Countries](https://img.shields.io/badge/10%2B-Countries-0A66C2?style=flat-square)
+![4 Live Products](https://img.shields.io/badge/4-Live_Products-0A66C2?style=flat-square)
+
+</div>
 
 ## What I do
 
 - Design scalable SaaS and enterprise platforms
 - Build multi-tenant business applications
 - Architect databases, APIs and integrations
-- Translate complex business processes into maintainable software
+- Translate complex processes into maintainable software
 - Automate workflows with n8n and AI integrations
 - Lead products from concept and UX to deployment and long-term operation
 
-## Live products
+---
+
+# Selected products
+
+## RntLink
 
 <div align="center">
-<a href="https://rntlink.com/">
-<img src="./RntLink-Logo.png" alt="RntLink" height="50">
-</a>
+  <a href="https://rntlink.com/">
+    <img src="./RntLink-Logo.png" alt="RntLink" height="58">
+  </a>
 </div>
 
-### [RntLink](https://rntlink.com/) · Live
+**Hospitality SaaS for hotels and holiday apartments**
 
-Hospitality SaaS for hotels and holiday apartments. The platform combines calendar synchronization, housekeeping, maintenance, revenue workflows, owner reporting and operational coordination.
+RntLink combines calendar synchronization, housekeeping, maintenance, revenue workflows, owner reporting and operational coordination in one platform.
+
+[![Live Website](https://img.shields.io/badge/Live-rntlink.com-success?style=flat-square&logo=googlechrome&logoColor=white)](https://rntlink.com/)
 
 `Hospitality SaaS` `PHP` `Vue.js` `MySQL` `iCal` `REST API`
 
 ---
 
+## HubDix
+
 <div align="center">
-<a href="https://hubdix.com/">
-<img src="./hubdix-weiss.jpg" alt="HubDix" height="50">
-</a>
+  <a href="https://hubdix.com/">
+    <img src="./hubdix-weiss.jpg" alt="HubDix" height="58">
+  </a>
 </div>
 
-### [HubDix](https://hubdix.com/) · Live
+**Operations, hosting and automation platform**
 
-Operations, hosting and automation platform for managing services, infrastructure and shared workflows across multiple digital products.
+HubDix supports services, infrastructure and shared operational workflows across multiple digital products.
+
+[![Live Website](https://img.shields.io/badge/Live-hubdix.com-success?style=flat-square&logo=googlechrome&logoColor=white)](https://hubdix.com/)
 
 `Operations` `Automation` `Laravel` `Docker` `Linux` `API`
 
 ---
 
+## JumpQR
+
 <div align="center">
-<a href="https://jumpqr.com/">
-<img src="./JumpQR-Logo.jpg" alt="JumpQR" height="50">
-</a>
+  <a href="https://jumpqr.com/">
+    <img src="./JumpQR-Logo.jpg" alt="JumpQR" height="58">
+  </a>
 </div>
 
-### [JumpQR](https://jumpqr.com/) · Live
+**Multi-tenant QR management SaaS**
 
-Multi-tenant QR SaaS for creating, managing and analyzing QR codes, including click statistics, asset management and REST API access.
+JumpQR provides QR code creation, asset management, click analytics and REST API access for structured, scalable QR workflows.
+
+[![Live Website](https://img.shields.io/badge/Live-jumpqr.com-success?style=flat-square&logo=googlechrome&logoColor=white)](https://jumpqr.com/)
 
 `QR SaaS` `Laravel` `Vue.js` `Analytics` `REST API`
 
 ---
 
+## Adresser
+
 <div align="center">
-<a href="https://www.adresser.de/">
-<img src="./adresser-Logo.jpg" alt="Adresser" height="60">
-</a>
+  <a href="https://www.adresser.de/">
+    <img src="./adresser-Logo.jpg" alt="Adresser" height="70">
+  </a>
 </div>
 
-### [Adresser](https://www.adresser.de/) · Live
+**Web application for address and location data management**
 
-Web application for creating, organizing and managing address-related data and location-based records.
+Adresser helps create, organize and manage structured address-related data and location-based records.
+
+[![Live Website](https://img.shields.io/badge/Live-adresser.de-success?style=flat-square&logo=googlechrome&logoColor=white)](https://www.adresser.de/)
+[![Repository](https://img.shields.io/badge/Repository-adresser-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vitaliy-shmidt/adresser)
 
 `Web Application` `Data Management` `Addresses` `Open Repository`
 
-## In development
+---
 
-### ChronoDix
+# In development
 
-Next-generation BI platform and technical successor to CHRONOS. Built as a multi-tenant system with snapshot-based planning, import workflows, forecasting, budgeting and an open API layer.
+## ChronoDix
+
+**Next-generation business intelligence platform**
+
+ChronoDix is the technical successor to CHRONOS. It is designed as a multi-tenant platform for snapshot-based planning, imports, forecasting, budgeting and open API integrations.
 
 `BI Platform` `Laravel` `Vue.js` `PostgreSQL` `Docker` `REST API`
 
 > Most product repositories are private. This profile presents selected capabilities and product context without exposing confidential source code or business information.
 
-## Enterprise experience
+---
 
-### CHRONOS — Enterprise BI & Performance Management
+# Enterprise experience
 
-Original software architect and technical product lead of a multilingual enterprise platform for budgeting, forecasting, financial planning, KPI reporting, management reporting and operational performance management in the hospitality industry.
+## CHRONOS — Enterprise BI & Performance Management
 
-The system has been operated in production for more than ten years and supported:
+**Original software architect and technical product lead** of a multilingual enterprise platform for budgeting, forecasting, financial planning, KPI reporting, management reporting and operational performance management in the hospitality industry.
+
+The platform was operated in production for more than ten years and supported:
 
 - **260+ hotels**
 - **500+ users**
@@ -119,22 +149,27 @@ The system has been operated in production for more than ten years and supported
 
 I was responsible for the complete technical lifecycle of the platform: product concept, software architecture, UX, database architecture, backend, frontend, business logic, reporting engine, REST APIs, integrations, deployment, infrastructure, security, performance optimization and continuous development.
 
-## Areas of expertise
+---
 
-- Software Architecture
-- SaaS Platforms
-- Enterprise Applications
-- Multi-Tenant Systems
-- Hospitality Technology
-- Business Intelligence and FP&A
-- Database Architecture
-- API Design
-- Workflow Automation
-- AI Integration
-- Product Strategy
-- Deployment and Operations
+# Expertise
 
-## Core technology
+**Architecture & Platforms**  
+`Software Architecture` `SaaS Platforms` `Enterprise Applications` `Multi-Tenant Systems`
+
+**Business Systems**  
+`Hospitality Technology` `Business Intelligence` `FP&A` `Financial Reporting`
+
+**Engineering & Operations**  
+`Database Architecture` `API Design` `Workflow Automation` `Deployment` `Operations`
+
+**Product & Innovation**  
+`Product Strategy` `Process Digitalization` `AI Integration`
+
+---
+
+# Core technology
+
+<div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -147,20 +182,26 @@ I was responsible for the complete technical lifecycle of the platform: product 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-## Current focus
+</div>
 
-I am currently building and operating software products for hospitality, digital operations and business intelligence. My work combines software architecture, product thinking and automation to create systems that remain useful, maintainable and reliable in real business environments.
+---
 
-## Contact
+# Current focus
 
-For software architecture, SaaS product development, technical partnerships or selected freelance projects:
+I am currently building and operating software products for hospitality, digital operations and business intelligence.
 
-**[info@webmaster-vitaliy.de](mailto:info@webmaster-vitaliy.de)**
+My focus is on systems that create measurable business value and remain reliable, maintainable and useful in real operational environments.
 
 ---
 
 <div align="center">
 
-### Software should not only work. It should create measurable value.
+## Contact
+
+For software architecture, SaaS product development, technical partnerships or selected freelance projects:
+
+### [info@webmaster-vitaliy.de](mailto:info@webmaster-vitaliy.de)
+
+**Software should not only work. It should create measurable value.**
 
 </div>
