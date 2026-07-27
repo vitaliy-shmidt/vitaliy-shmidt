@@ -1,7 +1,8 @@
 <div align="center">
 <a href="https://www.webmaster-vitaliy.de/">
-<img src="./Vitaliy-Webmaster-Banner.png" alt="Webmaster Vitaliy Shmidt" height="50">
+<img src="./Vitaliy-Webmaster-Banner.png" alt="Webmaster Vitaliy Shmidt" width="100%">
 </a>
+  
 # Vitaliy Shmidt
 
 ### Software Architect · SaaS Founder · Full-Stack Engineer
