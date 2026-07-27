@@ -53,7 +53,11 @@ Hospitality SaaS for hotels and holiday apartments. The platform combines calend
 
 </td>
 <td width="50%" valign="top">
-
+<div align="center">
+<a href="https://hubdix.com/">
+<img src="./hubdix-weiss.png" alt="HubDix" height="50">
+</a>
+</div>
 ### [HubDix](https://hubdix.com/) · Live
 
 Operations, hosting and automation platform for managing services, infrastructure and shared workflows across multiple digital products.
