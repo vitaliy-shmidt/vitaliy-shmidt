@@ -41,7 +41,7 @@ For more than 20 years, I have designed and developed enterprise software, SaaS 
 
 <div align="center">
 <a href="https://rntlink.com/">
-<img src="./RntLink-Logo-Transparent.png" alt="RntLink" width="180">
+<img src="./RntLink-Logo.png" alt="RntLink" width="180">
 </a>
 </div>
 
