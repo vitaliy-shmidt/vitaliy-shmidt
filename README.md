@@ -69,7 +69,12 @@ Operations, hosting and automation platform for managing services, infrastructur
 </tr>
 <tr>
 <td width="50%" valign="top">
-
+<div align="center">
+<a href="https://jumpqr.com/">
+<img src="./JumpQR-Logo.jpg" alt="JumpQR" height="50">
+</a>
+</div>
+  
 ### [JumpQR](https://jumpqr.com/) · Live
 
 Multi-tenant QR SaaS for creating, managing and analyzing QR codes, including click statistics, asset management and REST API access.
