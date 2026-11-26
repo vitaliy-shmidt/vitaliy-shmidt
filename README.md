@@ -137,6 +137,46 @@ ChronoDix is the technical successor to CHRONOS. It is being designed as a multi
 
 `BI Platform` `Laravel` `Vue.js` `PostgreSQL` `Docker` `REST API`
 
+## DocPipe
+
+### Document processing and AI integration layer
+
+DocPipe is an API-first document processing service built with Python and FastAPI. It provides a consistent interface for PDF text extraction, OCR through Stirling-PDF, optional AI-powered analysis, and structured PDF form inspection and filling. Designed as a reusable processing layer for independent applications, including PDF4Fill.
+
+`Document Processing` `Python` `FastAPI` `OCR` `AI Integration` `REST API`
+
+---
+
+## PDF4Fill
+
+### Enter once. Fill many.
+
+PDF4Fill is a multi-tenant platform for reusing structured data across PDF forms. Its architecture combines reusable form templates, central question and data catalogs, a visual field-mapping workflow and API-based PDF generation. DocPipe provides the document-processing engine. The platform is under active development; the full product workflow is not yet publicly launched.
+
+`PDF Automation` `Multi-Tenant SaaS` `Laravel` `REST API` `DocPipe`
+
+---
+
+## MapBridge
+
+### Universal mapping and reference data platform
+
+MapBridge is a domain-independent platform for managing structured data, cross-system identifiers and mappings. Its evolving matrix-based model and versioned REST API are designed to connect otherwise separate business applications without hard-coding industry-specific structures.
+
+`Data Integration` `Mapping` `Configurable Matrices` `Multi-Tenant` `REST API`
+
+---
+
+## UEP Core
+
+### Protocol-driven execution and orchestration
+
+UEP Core is an experimental, domain-independent system for coordinating independent execution nodes through versioned protocols. Its architecture covers persistent scheduling, controlled execution lifecycles, validation, audit history and recovery. An initial persistent scheduler and execution foundation have been implemented; the broader platform remains in development.
+
+`Orchestration` `Scheduling` `Distributed Systems` `Laravel` `Protocol Design`
+
+---
+
 > Most product repositories are private. This profile presents selected capabilities and product context without exposing confidential source code or business information.
 
 ---
@@ -177,7 +217,7 @@ I was responsible for the complete technical lifecycle of the platform: product 
 
 ### Product & Innovation
 
-`Product Strategy` `Process Digitalization` `AI Integration` `Technical Product Leadership`
+`Product Strategy` `Process Digitalization` `AI Integration` `Document Automation` `Technical Product Leadership`
 
 ---
 
