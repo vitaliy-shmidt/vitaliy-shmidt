@@ -127,8 +127,6 @@ Adresser is a web application for creating, organizing and maintaining structure
 
 ---
 
-# Currently building
-
 ## ChronoDix
 
 ### Next-generation business intelligence platform
@@ -137,11 +135,13 @@ ChronoDix is the technical successor to CHRONOS. It is being designed as a multi
 
 `BI Platform` `Laravel` `Vue.js` `PostgreSQL` `Docker` `REST API`
 
+---
+
 ## DocPipe
 
 ### Document processing and AI integration layer
 
-DocPipe is an API-first document processing service built with Python and FastAPI. It provides a consistent interface for PDF text extraction, OCR through Stirling-PDF, optional AI-powered analysis, and structured PDF form inspection and filling. Designed as a reusable processing layer for independent applications, including PDF4Fill.
+DocPipe is an API-first document processing service built with Python and FastAPI. It provides a consistent interface for PDF text extraction, OCR through Stirling-PDF, optional AI-powered analysis, and structured PDF form inspection and filling. It serves as a reusable processing layer for independent applications, including PDF4Fill.
 
 `Document Processing` `Python` `FastAPI` `OCR` `AI Integration` `REST API`
 
@@ -151,7 +151,7 @@ DocPipe is an API-first document processing service built with Python and FastAP
 
 ### Enter once. Fill many.
 
-PDF4Fill is a multi-tenant platform for reusing structured data across PDF forms. Its architecture combines reusable form templates, central question and data catalogs, a visual field-mapping workflow and API-based PDF generation. DocPipe provides the document-processing engine. The platform is under active development; the full product workflow is not yet publicly launched.
+PDF4Fill is a multi-tenant platform for reusing structured data across PDF forms. Designed around reusable form templates, central data catalogs, visual field mapping and API-based PDF generation through DocPipe. Currently in development.
 
 `PDF Automation` `Multi-Tenant SaaS` `Laravel` `REST API` `DocPipe`
 
@@ -161,7 +161,7 @@ PDF4Fill is a multi-tenant platform for reusing structured data across PDF forms
 
 ### Universal mapping and reference data platform
 
-MapBridge is a domain-independent platform for managing structured data, cross-system identifiers and mappings. Its evolving matrix-based model and versioned REST API are designed to connect otherwise separate business applications without hard-coding industry-specific structures.
+MapBridge is a domain-independent platform for managing structured data, cross-system identifiers and mappings. Its configurable matrix model and REST API are designed to connect independent business applications. Currently in development.
 
 `Data Integration` `Mapping` `Configurable Matrices` `Multi-Tenant` `REST API`
 
@@ -171,7 +171,7 @@ MapBridge is a domain-independent platform for managing structured data, cross-s
 
 ### Protocol-driven execution and orchestration
 
-UEP Core is an experimental, domain-independent system for coordinating independent execution nodes through versioned protocols. Its architecture covers persistent scheduling, controlled execution lifecycles, validation, audit history and recovery. An initial persistent scheduler and execution foundation have been implemented; the broader platform remains in development.
+UEP Core is an experimental, domain-independent system for coordinating independent execution nodes through versioned protocols. It combines persistent scheduling, execution lifecycle management and a design for validation, audit history and recovery. Currently in early development.
 
 `Orchestration` `Scheduling` `Distributed Systems` `Laravel` `Protocol Design`
 
